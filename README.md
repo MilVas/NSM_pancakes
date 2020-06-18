@@ -5,12 +5,12 @@
 *Data Analysis, June 2020, Berlin*
 
 ## Content
-* Project Description
-* Question & Hypothesis
-* Dataset
-* Workflow
-* Organization
-* Links
+* [Project Description](https://github.com/MilVas/NSM_pancakes#project-description)
+* [Question & Hypothesis](https://github.com/MilVas/NSM_pancakes#question--hypothesis)
+* [Dataset](https://github.com/MilVas/NSM_pancakes#dataset)
+* [Database](https://github.com/MilVas/NSM_pancakes#database)
+* [Workflow](https://github.com/MilVas/NSM_pancakes#workflow)
+* [Organization](https://github.com/MilVas/NSM_pancakes#organization)
 
 ## Project Description
 
