@@ -31,11 +31,11 @@ Can the New York Times data be correlated with the data on Wikipedia?
 
 The dataset consists of two CSV files. 
 
-The New York Times data was generated using their API (Link APII). Given the size of their data, we had to select one category, and we
+The New York Times data was generated using their [API](https://developer.nytimes.com/docs/books-product/1/overview). Given the size of their data, we had to select one category, and we
 decided to choose the combined published and e-books dataset (as opposed to, for example, hardcover best sellers list). This dataset
-includes information about author, title, the month when each book was placed on their list, and the number of months it was on the list. 
+includes information about author, title, the month when each book was placed on their list. Additionally, we added a column presenting the number of months it was on the list. 
 
-The second CSV consists of the 30 top book pages on Wikipedia, according to the number of visits, and it includes the name of the book, its ranking on Wikipedia and the number of views (in million). This data was obtained through webscraping (Link Wikipedia table)
+The second CSV consists of the 30 top book pages on Wikipedia, according to the number of visits, and it includes the name of the book, its ranking on Wikipedia and the number of views (in million). This data was obtained through webscraping. The table can be found [here](https://en.wikipedia.org/wiki/Wikipedia:Multiyear_ranking_of_most_viewed_pages#Books_and_book_series).
 
 ## Workflow
 
@@ -45,7 +45,7 @@ The workflow of our project was as follow:
 * Extracting the data through API & web scraping
 * Refine the questions that can be asked/topics that can be analyzed with regards to the extracted data
 * Merging and cleaning data
-* Thinking about the potential analysis that could be conducted on the generated dataset. 
+* Thinking about the potential analysis that could be conducted on the generated dataset 
 * Preparing presentation based on our insights
 * Finalizing folder and file structure
 
